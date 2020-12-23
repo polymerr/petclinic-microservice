@@ -1,0 +1,1 @@
+./mnvw clean package
